@@ -1,2 +1,2 @@
 # odin-recipes
-Project training
+Project training for Odin-project. html site.
