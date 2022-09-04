@@ -1,8 +1,9 @@
 h1{color: gold;
   border: 2px solid red;
   margin: auto;
-  border: 5px;
+  padding: auto;
   text-align: center;
+
 
 
 }
@@ -16,6 +17,11 @@ html {
 
 ul{font: 900;
     color: rgb(2, 2, 12);
+    border: 10cm;
+    margin: 0cm;
+    padding: auto;
+    
+
 
 }
 
