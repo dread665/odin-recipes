@@ -1,7 +1,10 @@
 h1{color: gold;
   border: 2px solid red;
-  margin: auto;
-  padding: auto;
+  margin-right: 110px;
+  height: 100px;
+  width: 100px;
+  margin-left: 100px;
+  padding: 5px;
   text-align: center;
 
 
@@ -10,13 +13,13 @@ h1{color: gold;
 
 
 html {
-    background-color: rgb(13, 27, 218);
+    background-color: rgb(13, 218, 150);
   }
 
-  body {background-color: rgb(13, 16, 185);}
+  body {background-color: rgb(13, 185, 79);}
 
 ul{font: 900;
-    color: rgb(2, 2, 12);
+    color: rgb(28, 141, 39);
     border: 10px;
     margin: 15px;color: black;
     padding: 1px;
